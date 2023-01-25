@@ -1,0 +1,28 @@
+img {
+    margin: auto;
+    padding: 1rem;
+    padding-left: 7%;
+    text-align: center;
+}
+
+body {
+    background-color: #e5e8e1 ;
+    font-family: "Montserrat";
+    padding-left: 15%;
+    margin: auto;
+}
+
+
+h4 {
+    margin-bottom: 0px;
+}
+
+h5 {
+    color: #767874;
+    margin-top: 0px;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: URL('font.ttf') format('truetype');
+}
